@@ -66,3 +66,103 @@ a img {
 article, aside, details, figcaption, figure, footer, header, hgroup, main, menu, nav, section, summary {
   display: block;
 }
+
+/* line 1, ../sass/_full-page.scss */
+#full-page {
+  background-color: #ebedec;
+}
+
+/* line 1, ../sass/_header.scss */
+#header {
+  width: 905px;
+  margin: 0 auto;
+}
+/* line 6, ../sass/_header.scss */
+#header .google {
+  float: right;
+  width: 48px;
+  margin: 6px 0 0 0;
+}
+/* line 12, ../sass/_header.scss */
+#header .logo {
+  margin: 25px 0 0 0;
+  width: 151px;
+}
+/* line 17, ../sass/_header.scss */
+#header .google-text {
+  float: right;
+  margin: 8px 0 0 0;
+}
+/* line 22, ../sass/_header.scss */
+#header h1 {
+  font-family: arial, sans-serif;
+  color: #818181;
+  text-transform: uppercase;
+  font-size: 14px;
+  margin: 0;
+}
+/* line 29, ../sass/_header.scss */
+#header h2 {
+  font-family: arial, sans-serif;
+  color: #818181;
+  text-transform: uppercase;
+  font-size: 17px;
+  margin: 0;
+}
+/* line 36, ../sass/_header.scss */
+#header h3 {
+  font-family: arial, sans-serif;
+  color: #818181;
+  text-transform: uppercase;
+  font-size: 13px;
+  margin: 0;
+}
+/* line 44, ../sass/_header.scss */
+#header h4 {
+  font-family: arial, sans-serif;
+  color: #818181;
+  text-transform: uppercase;
+  font-size: 13px;
+  display: inline-block;
+}
+/* line 52, ../sass/_header.scss */
+#header hr {
+  color: pink;
+  width: 550px;
+  display: inline-block;
+  margin: 0 13px;
+}
+/* line 59, ../sass/_header.scss */
+#header .link {
+  float: right;
+  margin: 10px 15px 0 0;
+}
+/* line 64, ../sass/_header.scss */
+#header i {
+  color: #818181;
+}
+/* line 68, ../sass/_header.scss */
+#header .item {
+  margin: auto;
+  padding: 0;
+  width: 893px;
+  height: 443px;
+}
+/* line 75, ../sass/_header.scss */
+#header .slider {
+  vertical-align: top;
+}
+/* line 80, ../sass/_header.scss */
+#header #carousel-example-generic {
+  margin: 40px 2px 0 2px;
+  background-color: white;
+}
+/* line 85, ../sass/_header.scss */
+#header .carousel-caption {
+  font-family: arial, sans-serif;
+  font-size: 40px;
+  text-shadow: none;
+  font-style: italic;
+  text-align: left;
+  vertical-align: top;
+}
