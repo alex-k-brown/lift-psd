@@ -1,0 +1,452 @@
+#titan3 {
+
+  background-color: #ebedec;
+
+  .header {
+
+    width: 905px;
+    margin: 0 auto;
+
+    .google {
+      float: right;
+      width: 48px;
+      margin: 9px 0 0 0;
+    } /*google*/
+
+    .logo {
+      margin: 25px 0 0 0;
+      width: 151px;
+    } /*logo*/
+
+    .google-text {
+      float: right;
+      margin: 12px 10px 0 -1px;
+    } /*google-text*/
+
+    h1 {
+      font-family: arial, sans-serif;
+      color: #818181;
+      text-transform: uppercase;
+      font-size: 14px;
+      margin: 0;
+      padding: 0
+    } /*h1*/
+
+    h2 {
+      font-family: arial, sans-serif;
+      color: #818181;
+      text-transform: uppercase;
+      font-size: 17px;
+      margin: -3px 0 0 0;
+      padding: 0;
+    } /*h2*/
+
+    h3 {
+      font-family: arial, sans-serif;
+      color: #818181;
+      text-transform: uppercase;
+      font-size: 13px;
+      margin: -3px 0 0 0;
+      padding: 0;
+    } /*h3*/
+
+    h4 {
+      font-family: arial, sans-serif;
+      color: #818181;
+      text-transform: uppercase;
+      font-size: 13px;
+      display: inline-block;
+    } /*h4*/
+
+    hr {
+      color: pink;
+      width: 550px;
+      display: inline-block;
+      margin: 0 13px;
+    } /*hr*/
+
+    .link {
+      float: right;
+      margin: 15px 15px 0 0;
+    } /*link*/
+
+    .blog {
+      margin: 0 0 0 18px;
+    } /*blog*/
+
+    .contact {
+      margin: 0 -7px 0 12px;
+    } /*contact*/
+
+    .portfolio {
+      margin: 0 -9px 0 3px
+    }
+
+    .home-class {
+      margin: 0 0 0 1px;
+    } /*home-class*/
+
+    i {
+      color: #818181;
+    } /*color*/
+
+    .item {
+      margin: auto;
+      padding: 0;
+      width: 893px;
+      height: 443px;
+    } /*item*/
+
+    .slider {
+      vertical-align: top;
+    } /*slider*/
+
+    #carousel-example-generic {
+      margin: 30px 2px 0 2px;
+      background-color: white;
+    } /*carousel-example-generic*/
+
+    .carousel-caption {
+      font-family: arial, sans-serif;
+      font-size: 40px;
+      text-shadow: none;
+      font-style: italic;
+      text-align: left;
+      vertical-align: top;
+    }
+
+    .link-div {
+      margin: -20px 2px 0 0;
+      padding: 0;
+      float: right;
+    } /*link-div*/
+
+  } /*header*/
+
+  .black-bar {
+
+    background-color: black;
+    color: white;
+    margin: 58px 0 0 0;
+
+    .bar {
+      width: 905px;
+      margin: 0 auto;
+
+      .lorem-ipsum {
+
+        width: 600px;
+        margin: 0px 0 0 0;
+        display: inline-block;
+
+        h1 {
+          text-transform: uppercase;
+          font-family: arial, sans-serif;
+          font-size: 18px;
+          margin: 0 0 0 042px;
+          padding: 29px 0 0 0;
+        } /*h1*/
+
+        p {
+          margin: 2px 0 0 43px;
+          font-family: arial, sans-serif;
+          font-size: 13px;
+          width: 600px;
+        } /*p*/
+
+        .item-list {
+          font-family: arial, sans-serif;
+          font-size: 13px;
+          margin: 19px 0 0 93px;
+          padding: 0 0 39px 0;
+        } /*item-list*/
+
+      } /*lorem-ipsum*/
+
+      .logo-box {
+        display: inline-block;
+        float: right;
+        margin: 8px 60px 0 0;
+
+        h2 {
+          font-family: arial, sans-serif;
+          font-size: 14px;
+          color: #0460a8;
+          margin: 6px 0 0 7px;
+        } /*h2*/
+
+        h3 {
+          font-family: arial, sans-serif;
+          font-size: 14px;
+          color: #2c3437;
+          margin: 1px 0 0 7px;
+        } /*h3*/
+
+        h4 {
+          font-family: arial, sans-serif;
+          font-size: 14px;
+          color: #4c9639;
+          margin: 1px 0 0 7px;
+        } /*h4*/
+
+        h5 {
+          font-family: arial, sans-serif;
+          font-size: 20px;
+          color: #3a4448;
+          margin: 12px 0 0 -9px;
+        } /*h5*/
+
+        a {
+          display: block;
+          margin: 19px 0 0 -2px;
+          padding: 0;
+        } /*a*/
+
+      } /*logo-box*/
+
+    } /*bar*/
+
+  } /*black-bar*/
+
+  #some-words {
+    width: 905px;
+    margin: 0 auto;
+
+    h1 {
+      display: inline-block;
+      font-family: MyriadPro-Regular, 'Myriad Pro Regular', MyriadPro, 'Myriad Pro', Helvetica, Arial, sans-serif;
+      text-transform: uppercase;
+      font-size: 25px;
+      margin: 18px 0 0 22px;
+
+    } /*h1*/
+
+    img {
+      display: inline-block;
+      width: 117px;
+      margin: -8px 0 0 2px;
+    } /*img*/
+
+    .social {
+      float: right;
+
+      h2 {
+
+        font-size: 13px;
+        font-family: arial, sans-serif;
+        text-transform: uppercase;
+        display: inline-block;
+
+      } /*h2*/
+
+      .social-icons {
+        display: inline-block;
+      } /*social-icons*/
+
+      .social-text {
+        display: inline-block;
+      } /*social-text*/
+
+    } /*social*/
+
+    hr {
+      color: black;
+      width: 900px;
+      background-color: black;
+    } /*hr*/
+
+    .who-we-are {
+
+      display: inline-block;
+
+      .who-column {
+
+        margin: -1px 0 0 22px;
+        width: 200px;
+        display: inline-block;
+
+        .page-image {
+          width: 180px;
+          margin: -19px 0 0 0;
+        } /*page-image*/
+
+        .little-icon {
+
+          width: 25px;
+          display: inline-block;
+
+        } /*little-icon*/
+
+        p {
+          font-family: arial, sans-serif;
+          font-size: 13px;
+          color: #3a4448;
+        } /*p*/
+
+        h3 {
+          font-family: arial, sans-serif;
+          text-transform: uppercase;
+          font-size: 14px;
+          color: #0077d1;
+          display: inline-block;
+          margin: 8px 0 0 0;
+        } /*h3*/
+
+      } /*who-column*/
+
+      .seo-column {
+
+        margin: -19px -20px 0 18px;
+        width: 200px;
+        display: inline-block;
+        font-family: arial, sans-serif;
+        color: gray;
+
+        .page-image {
+          width: 180px;
+          margin: -19px 0 0 0;
+        } /*-page-image*/
+
+        .little-icon {
+
+          width: 20px;
+          display: inline-block;
+
+        } /*little-icon*/
+
+        p {
+          font-family: arial, sans-serif;
+          font-size: 13px;
+          color: #3a4448;
+        } /*p*/
+
+        h3 {
+          font-family: arial, sans-serif;
+          text-transform: uppercase;
+          font-size: 14px;
+          color: #0077d1;
+          display: inline-block;
+        } /*h3*/
+
+        .alt-div {
+          height: 100px;
+          width: 100px;
+          background-color: blue;
+        } /*alt-div*/
+
+      } /*seo-column*/
+
+    } /*who-we-are*/
+
+    .seo-long {
+
+      margin: -19px -20px 0 18px;
+      width: 600px;
+
+      .page-image {
+        width: 180px;
+        margin: -19px 0 0 0;
+      } /*page-image*/
+
+      .little-icon {
+
+        width: 20px;
+        display: inline-block;
+
+      } /*little-icon*/
+
+      p {
+        font-family: arial, sans-serif;
+        font-size: 13px;
+        color: #3a4448;
+      } /*p*/
+
+      h3 {
+        font-family: arial, sans-serif;
+        text-transform: uppercase;
+        font-size: 14px;
+        color: #0077d1;
+        display: inline-block;
+      } /*h3*/
+
+    } /*seo-long*/
+
+    .client-performance {
+
+      display: inline-block;
+      background-color: white;
+      width: 230px;
+      margin: 0 0 0 20px;
+      box-shadow: inset 0 0 0 3px #f7f7f7;
+      border: 1px solid #cbcfd1;
+
+      h3 {
+        font-family: arial, sans-serif;
+        font-size: 14px;
+        color: #0077d1;
+        margin: 10px 0 270px 0;
+        text-align: center;
+      } /*h3*/
+
+      p {
+        font-family: arial, sans-serif;
+        font-size: 11px;
+        color: #888888;
+        text-align: center;
+        margin: 0 10px 10px 10px;
+      } /*p*/
+
+      .pricing {
+        margin: 0 0 0 55px;
+      } /*pricing*/
+
+    } /*client-performance*/
+
+    .logo-bottom {
+      float: right;
+      margin: 15px 100px 0 0;
+      width: 150px;
+    } /*logo-bottom*/
+
+  } /*some-words*/
+
+  .footer {
+
+    width: 944px;
+    margin: 100px auto 0 auto;
+    background-image: url(../images/footer.png);
+    padding: 40px 0 8px 60px;
+
+
+
+    .phone {
+
+      margin: 15px 0 0 0;
+
+
+      a {
+
+        margin: 0 0 0 -40px;
+        font-family: arial, sans-serif;
+        font-size: 12px;
+        color: white;
+
+      } /*a*/
+
+      p {
+
+        font-family: arial, sans-serif;
+        font-size: 12px;
+        color: white;
+        margin: 0 40px 0 0;
+        text-transform: uppercase;
+        float: right;
+
+      } /*p*/
+
+    }
+
+  } /*footer*/
+
+}  /*titan3*/
+
