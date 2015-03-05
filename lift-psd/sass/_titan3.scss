@@ -14,9 +14,16 @@
     } /*google*/
 
     .logo {
-      margin: 25px 0 0 0;
+      margin: 25px 0 -15px 0;
       width: 151px;
     } /*logo*/
+
+    .line {
+      border-top: 1px solid;
+      border-color: #c0c2c4;
+      width: 750px;
+      float: right;
+    }/*line*/
 
     .google-text {
       float: right;
@@ -57,13 +64,6 @@
       font-size: 13px;
       display: inline-block;
     } /*h4*/
-
-    hr {
-      color: pink;
-      width: 550px;
-      display: inline-block;
-      margin: 0 13px;
-    } /*hr*/
 
     .link {
       float: right;
@@ -116,7 +116,7 @@
     }
 
     .link-div {
-      margin: -20px 2px 0 0;
+      margin: -10px 2px 0 0;
       padding: 0;
       float: right;
     } /*link-div*/
@@ -210,7 +210,7 @@
 
   #some-words {
     width: 905px;
-    margin: 0 auto;
+    margin: 20px auto 0 auto;
 
     h1 {
       display: inline-block;
@@ -249,39 +249,38 @@
 
     } /*social*/
 
-    hr {
-      color: black;
-      width: 900px;
-      background-color: black;
-    } /*hr*/
-
     .who-we-are {
 
       display: inline-block;
+      background-image: url(../images/line-shadow.png);
+      background-repeat: no-repeat;
 
       .who-column {
 
-        margin: -1px 0 0 22px;
+        margin: 40px 0 0 22px;
         width: 200px;
         display: inline-block;
 
         .page-image {
           width: 180px;
           margin: -19px 0 0 0;
-        } /*page-image*/
+        }
+        /*page-image*/
 
         .little-icon {
 
           width: 25px;
           display: inline-block;
 
-        } /*little-icon*/
+        }
+        /*little-icon*/
 
         p {
           font-family: arial, sans-serif;
           font-size: 13px;
           color: #3a4448;
-        } /*p*/
+        }
+        /*p*/
 
         h3 {
           font-family: arial, sans-serif;
@@ -290,35 +289,99 @@
           color: #0077d1;
           display: inline-block;
           margin: 8px 0 0 0;
-        } /*h3*/
+        }
+        /*h3*/
 
       } /*who-column*/
 
-      .seo-column {
+    } /*who-we-are*/
+
+    .seo-section {
+
+      background-image: url(../images/line-shadow.png);
+      background-repeat: no-repeat;
+      padding: 20px 0 0 0;
+
+      .seo-list {
+
+        display: inline-block;
+
+        .seo-column {
+
+          margin: -19px -20px 0 18px;
+          width: 200px;
+          display: inline-block;
+          font-family: arial, sans-serif;
+          color: gray;
+
+          .page-image {
+            width: 180px;
+            margin: -19px 0 0 0;
+          }
+          /*-page-image*/
+
+          .little-icon {
+
+            width: 20px;
+            display: inline-block;
+
+          }
+          /*little-icon*/
+
+          p {
+            font-family: arial, sans-serif;
+            font-size: 13px;
+            color: #3a4448;
+          }
+          /*p*/
+
+          h3 {
+            font-family: arial, sans-serif;
+            text-transform: uppercase;
+            font-size: 14px;
+            color: #0077d1;
+            display: inline-block;
+          }
+          /*h3*/
+
+          .alt-div {
+            height: 100px;
+            width: 100px;
+            background-color: blue;
+          }
+          /*alt-div*/
+
+        }
+        /*seo-column*/
+
+      }
+      /*seo-list*/
+
+      .seo-long {
 
         margin: -19px -20px 0 18px;
-        width: 200px;
-        display: inline-block;
-        font-family: arial, sans-serif;
-        color: gray;
+        width: 600px;
 
         .page-image {
           width: 180px;
           margin: -19px 0 0 0;
-        } /*-page-image*/
+        }
+        /*page-image*/
 
         .little-icon {
 
           width: 20px;
           display: inline-block;
 
-        } /*little-icon*/
+        }
+        /*little-icon*/
 
         p {
           font-family: arial, sans-serif;
           font-size: 13px;
           color: #3a4448;
-        } /*p*/
+        }
+        /*p*/
 
         h3 {
           font-family: arial, sans-serif;
@@ -326,81 +389,48 @@
           font-size: 14px;
           color: #0077d1;
           display: inline-block;
-        } /*h3*/
+        }
+        /*h3*/
 
-        .alt-div {
-          height: 100px;
-          width: 100px;
-          background-color: blue;
-        } /*alt-div*/
+      }
+      /*seo-long*/
 
-      } /*seo-column*/
+      .client-performance {
 
-    } /*who-we-are*/
-
-    .seo-long {
-
-      margin: -19px -20px 0 18px;
-      width: 600px;
-
-      .page-image {
-        width: 180px;
-        margin: -19px 0 0 0;
-      } /*page-image*/
-
-      .little-icon {
-
-        width: 20px;
         display: inline-block;
+        background-color: white;
+        width: 230px;
+        margin: 0 0 0 20px;
+        box-shadow: inset 0 0 0 3px #f7f7f7;
+        border: 1px solid #cbcfd1;
 
-      } /*little-icon*/
+        h3 {
+          font-family: arial, sans-serif;
+          font-size: 14px;
+          color: #0077d1;
+          margin: 10px 0 270px 0;
+          text-align: center;
+        }
+        /*h3*/
 
-      p {
-        font-family: arial, sans-serif;
-        font-size: 13px;
-        color: #3a4448;
-      } /*p*/
+        p {
+          font-family: arial, sans-serif;
+          font-size: 11px;
+          color: #888888;
+          text-align: center;
+          margin: 0 10px 10px 10px;
+        }
+        /*p*/
 
-      h3 {
-        font-family: arial, sans-serif;
-        text-transform: uppercase;
-        font-size: 14px;
-        color: #0077d1;
-        display: inline-block;
-      } /*h3*/
+        .pricing {
+          margin: 0 0 0 55px;
+        }
+        /*pricing*/
 
-    } /*seo-long*/
+      }
+      /*client-performance*/
 
-    .client-performance {
-
-      display: inline-block;
-      background-color: white;
-      width: 230px;
-      margin: 0 0 0 20px;
-      box-shadow: inset 0 0 0 3px #f7f7f7;
-      border: 1px solid #cbcfd1;
-
-      h3 {
-        font-family: arial, sans-serif;
-        font-size: 14px;
-        color: #0077d1;
-        margin: 10px 0 270px 0;
-        text-align: center;
-      } /*h3*/
-
-      p {
-        font-family: arial, sans-serif;
-        font-size: 11px;
-        color: #888888;
-        text-align: center;
-        margin: 0 10px 10px 10px;
-      } /*p*/
-
-      .pricing {
-        margin: 0 0 0 55px;
-      } /*pricing*/
-
-    } /*client-performance*/
+    } /*seo-section*/
 
     .logo-bottom {
       float: right;
