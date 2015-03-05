@@ -81,7 +81,7 @@ article, aside, details, figcaption, figure, footer, header, hgroup, main, menu,
 #header .google {
   float: right;
   width: 48px;
-  margin: 6px 0 0 0;
+  margin: 9px 0 0 0;
 }
 /* line 12, ../sass/_header.scss */
 #header .logo {
@@ -91,7 +91,7 @@ article, aside, details, figcaption, figure, footer, header, hgroup, main, menu,
 /* line 17, ../sass/_header.scss */
 #header .google-text {
   float: right;
-  margin: 8px 0 0 0;
+  margin: 12px 10px 0 -1px;
 }
 /* line 22, ../sass/_header.scss */
 #header h1 {
@@ -100,24 +100,27 @@ article, aside, details, figcaption, figure, footer, header, hgroup, main, menu,
   text-transform: uppercase;
   font-size: 14px;
   margin: 0;
+  padding: 0;
 }
-/* line 29, ../sass/_header.scss */
+/* line 30, ../sass/_header.scss */
 #header h2 {
   font-family: arial, sans-serif;
   color: #818181;
   text-transform: uppercase;
   font-size: 17px;
-  margin: 0;
+  margin: -3px 0 0 0;
+  padding: 0;
 }
-/* line 36, ../sass/_header.scss */
+/* line 38, ../sass/_header.scss */
 #header h3 {
   font-family: arial, sans-serif;
   color: #818181;
   text-transform: uppercase;
   font-size: 13px;
-  margin: 0;
+  margin: -3px 0 0 0;
+  padding: 0;
 }
-/* line 44, ../sass/_header.scss */
+/* line 47, ../sass/_header.scss */
 #header h4 {
   font-family: arial, sans-serif;
   color: #818181;
@@ -125,39 +128,55 @@ article, aside, details, figcaption, figure, footer, header, hgroup, main, menu,
   font-size: 13px;
   display: inline-block;
 }
-/* line 52, ../sass/_header.scss */
+/* line 55, ../sass/_header.scss */
 #header hr {
   color: pink;
   width: 550px;
   display: inline-block;
   margin: 0 13px;
 }
-/* line 59, ../sass/_header.scss */
+/* line 62, ../sass/_header.scss */
 #header .link {
   float: right;
-  margin: 10px 15px 0 0;
+  margin: 15px 15px 0 0;
 }
-/* line 64, ../sass/_header.scss */
+/* line 67, ../sass/_header.scss */
+#header .blog {
+  margin: 0 0 0 18px;
+}
+/* line 71, ../sass/_header.scss */
+#header .contact {
+  margin: 0 -7px 0 12px;
+}
+/* line 75, ../sass/_header.scss */
+#header .portfolio {
+  margin: 0 -9px 0 3px;
+}
+/* line 79, ../sass/_header.scss */
+#header .home-class {
+  margin: 0 0 0 1px;
+}
+/* line 83, ../sass/_header.scss */
 #header i {
   color: #818181;
 }
-/* line 68, ../sass/_header.scss */
+/* line 87, ../sass/_header.scss */
 #header .item {
   margin: auto;
   padding: 0;
   width: 893px;
   height: 443px;
 }
-/* line 75, ../sass/_header.scss */
+/* line 94, ../sass/_header.scss */
 #header .slider {
   vertical-align: top;
 }
-/* line 80, ../sass/_header.scss */
+/* line 99, ../sass/_header.scss */
 #header #carousel-example-generic {
-  margin: 40px 2px 0 2px;
+  margin: 30px 2px 0 2px;
   background-color: white;
 }
-/* line 85, ../sass/_header.scss */
+/* line 104, ../sass/_header.scss */
 #header .carousel-caption {
   font-family: arial, sans-serif;
   font-size: 40px;
@@ -165,4 +184,226 @@ article, aside, details, figcaption, figure, footer, header, hgroup, main, menu,
   font-style: italic;
   text-align: left;
   vertical-align: top;
+}
+/* line 113, ../sass/_header.scss */
+#header .link-div {
+  margin: -20px 2px 0 0;
+  padding: 0;
+  float: right;
+}
+
+/* line 1, ../sass/_black-bar.scss */
+#black-bar {
+  background-color: black;
+  color: white;
+  margin: 58px 0 0 0;
+}
+/* line 7, ../sass/_black-bar.scss */
+#black-bar .bar {
+  width: 905px;
+  margin: 0 auto;
+}
+/* line 11, ../sass/_black-bar.scss */
+#black-bar .bar .lorem-ipsum {
+  width: 600px;
+  margin: 0px 0 0 0;
+  display: inline-block;
+}
+/* line 17, ../sass/_black-bar.scss */
+#black-bar .bar .lorem-ipsum h1 {
+  text-transform: uppercase;
+  font-family: arial, sans-serif;
+  font-size: 18px;
+  margin: 0 0 0 042px;
+  padding: 29px 0 0 0;
+}
+/* line 25, ../sass/_black-bar.scss */
+#black-bar .bar .lorem-ipsum p {
+  margin: 2px 0 0 43px;
+  font-family: arial, sans-serif;
+  font-size: 13px;
+  width: 600px;
+}
+/* line 32, ../sass/_black-bar.scss */
+#black-bar .bar .lorem-ipsum .item-list {
+  font-family: arial, sans-serif;
+  font-size: 13px;
+  margin: 19px 0 0 93px;
+  padding: 0 0 39px 0;
+}
+/* line 41, ../sass/_black-bar.scss */
+#black-bar .bar .logo-box {
+  display: inline-block;
+  float: right;
+  margin: 8px 60px 0 0;
+}
+/* line 46, ../sass/_black-bar.scss */
+#black-bar .bar .logo-box h2 {
+  font-family: arial, sans-serif;
+  font-size: 14px;
+  color: #0460a8;
+  margin: 6px 0 0 7px;
+}
+/* line 53, ../sass/_black-bar.scss */
+#black-bar .bar .logo-box h3 {
+  font-family: arial, sans-serif;
+  font-size: 14px;
+  color: #2c3437;
+  margin: 1px 0 0 7px;
+}
+/* line 60, ../sass/_black-bar.scss */
+#black-bar .bar .logo-box h4 {
+  font-family: arial, sans-serif;
+  font-size: 14px;
+  color: #4c9639;
+  margin: 1px 0 0 7px;
+}
+/* line 67, ../sass/_black-bar.scss */
+#black-bar .bar .logo-box h5 {
+  font-family: arial, sans-serif;
+  font-size: 20px;
+  color: #3a4448;
+  margin: 12px 0 0 -9px;
+}
+/* line 74, ../sass/_black-bar.scss */
+#black-bar .bar .logo-box a {
+  display: block;
+  margin: 19px 0 0 -2px;
+  padding: 0;
+}
+
+/* line 1, ../sass/_some-words.scss */
+#some-words {
+  width: 905px;
+  margin: 0 auto;
+}
+/* line 5, ../sass/_some-words.scss */
+#some-words h1 {
+  display: inline-block;
+  font-family: MyriadPro-Regular, 'Myriad Pro Regular', MyriadPro, 'Myriad Pro', Helvetica, Arial, sans-serif;
+  text-transform: uppercase;
+  font-size: 25px;
+  margin: 18px 0 0 22px;
+}
+/* line 14, ../sass/_some-words.scss */
+#some-words img {
+  display: inline-block;
+  width: 117px;
+  margin: -8px 0 0 2px;
+}
+/* line 20, ../sass/_some-words.scss */
+#some-words .social {
+  float: right;
+}
+/* line 23, ../sass/_some-words.scss */
+#some-words .social h2 {
+  font-size: 13px;
+  font-family: arial, sans-serif;
+  text-transform: uppercase;
+  display: inline-block;
+}
+/* line 32, ../sass/_some-words.scss */
+#some-words .social .social-icons {
+  display: inline-block;
+}
+/* line 36, ../sass/_some-words.scss */
+#some-words .social .social-text {
+  display: inline-block;
+}
+/* line 42, ../sass/_some-words.scss */
+#some-words hr {
+  color: black;
+  width: 900px;
+  background-color: black;
+}
+/* line 48, ../sass/_some-words.scss */
+#some-words .who-we-are {
+  display: inline-block;
+}
+/* line 52, ../sass/_some-words.scss */
+#some-words .who-we-are .who-column {
+  margin: -19px 0 0 18px;
+  width: 200px;
+}
+/* line 57, ../sass/_some-words.scss */
+#some-words .who-we-are .who-column .page-image {
+  width: 180px;
+  margin: -19px 0 0 0;
+}
+/* line 62, ../sass/_some-words.scss */
+#some-words .who-we-are .who-column .little-icon {
+  width: 20px;
+  display: inline-block;
+}
+/* line 69, ../sass/_some-words.scss */
+#some-words .who-we-are .who-column p {
+  font-family: arial, sans-serif;
+  font-size: 13px;
+  color: #3a4448;
+}
+/* line 75, ../sass/_some-words.scss */
+#some-words .who-we-are .who-column h3 {
+  font-family: arial, sans-serif;
+  text-transform: uppercase;
+  font-size: 14px;
+  color: #0077d1;
+  display: inline-block;
+}
+/* line 85, ../sass/_some-words.scss */
+#some-words .who-we-are .seo-column {
+  margin: -19px -20px 0 18px;
+  width: 200px;
+}
+/* line 90, ../sass/_some-words.scss */
+#some-words .who-we-are .seo-column .page-image {
+  width: 180px;
+  margin: -19px 0 0 0;
+}
+/* line 95, ../sass/_some-words.scss */
+#some-words .who-we-are .seo-column .little-icon {
+  width: 20px;
+  display: inline-block;
+}
+/* line 102, ../sass/_some-words.scss */
+#some-words .who-we-are .seo-column p {
+  font-family: arial, sans-serif;
+  font-size: 13px;
+  color: #3a4448;
+}
+/* line 108, ../sass/_some-words.scss */
+#some-words .who-we-are .seo-column h3 {
+  font-family: arial, sans-serif;
+  text-transform: uppercase;
+  font-size: 14px;
+  color: #0077d1;
+  display: inline-block;
+}
+/* line 120, ../sass/_some-words.scss */
+#some-words .seo-long {
+  margin: -19px -20px 0 18px;
+  width: 200px;
+}
+/* line 125, ../sass/_some-words.scss */
+#some-words .seo-long .page-image {
+  width: 180px;
+  margin: -19px 0 0 0;
+}
+/* line 130, ../sass/_some-words.scss */
+#some-words .seo-long .little-icon {
+  width: 20px;
+  display: inline-block;
+}
+/* line 137, ../sass/_some-words.scss */
+#some-words .seo-long p {
+  font-family: arial, sans-serif;
+  font-size: 13px;
+  color: #3a4448;
+}
+/* line 143, ../sass/_some-words.scss */
+#some-words .seo-long h3 {
+  font-family: arial, sans-serif;
+  text-transform: uppercase;
+  font-size: 14px;
+  color: #0077d1;
+  display: inline-block;
 }

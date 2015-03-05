@@ -1,0 +1,84 @@
+#black-bar {
+  
+  background-color: black;
+  color: white;
+  margin: 58px 0 0 0;
+
+  .bar {
+    width: 905px;
+    margin: 0 auto;
+
+    .lorem-ipsum {
+
+      width: 600px;
+      margin: 0px 0 0 0;
+      display: inline-block;
+
+      h1 {
+        text-transform: uppercase;
+        font-family: arial, sans-serif;
+        font-size: 18px;
+        margin: 0 0 0 042px;
+        padding: 29px 0 0 0;
+      }
+
+      p {
+        margin: 2px 0 0 43px;
+        font-family: arial, sans-serif;
+        font-size: 13px;
+        width: 600px;
+      }
+
+      .item-list {
+        font-family: arial, sans-serif;
+        font-size: 13px;
+        margin: 19px 0 0 93px;
+        padding: 0 0 39px 0;
+      }
+
+    }
+
+    .logo-box {
+      display: inline-block;
+      float: right;
+      margin: 8px 60px 0 0;
+
+      h2 {
+        font-family: arial, sans-serif;
+        font-size: 14px;
+        color: #0460a8;
+        margin: 6px 0 0 7px;
+      }
+
+      h3 {
+        font-family: arial, sans-serif;
+        font-size: 14px;
+        color: #2c3437;
+        margin: 1px 0 0 7px;
+      }
+
+      h4 {
+        font-family: arial, sans-serif;
+        font-size: 14px;
+        color: #4c9639;
+        margin: 1px 0 0 7px;
+      }
+
+      h5 {
+        font-family: arial, sans-serif;
+        font-size: 20px;
+        color: #3a4448;
+        margin: 12px 0 0 -9px;
+      }
+
+      a {
+        display: block;
+        margin: 19px 0 0 -2px;
+        padding: 0;
+      }
+
+    }
+
+  }
+
+}

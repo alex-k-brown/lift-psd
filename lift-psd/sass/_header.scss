@@ -6,7 +6,7 @@
   .google {
     float: right;
     width: 48px;
-    margin: 6px 0 0 0;
+    margin: 9px 0 0 0;
   }
 
   .logo {
@@ -16,7 +16,7 @@
 
   .google-text {
     float: right;
-    margin: 8px 0 0 0;
+    margin: 12px 10px 0 -1px;
   }
 
   h1 {
@@ -25,20 +25,23 @@
     text-transform: uppercase;
     font-size: 14px;
     margin: 0;
+    padding: 0
   }
   h2 {
     font-family: arial, sans-serif;
     color: #818181;
     text-transform: uppercase;
     font-size: 17px;
-    margin: 0;
+    margin: -3px 0 0 0;
+    padding: 0;
   }
   h3 {
     font-family: arial, sans-serif;
     color: #818181;
     text-transform: uppercase;
     font-size: 13px;
-    margin: 0;
+    margin: -3px 0 0 0;
+    padding: 0;
   }
 
   h4 {
@@ -58,7 +61,23 @@
 
   .link {
     float: right;
-    margin: 10px 15px 0 0;
+    margin: 15px 15px 0 0;
+  }
+
+  .blog {
+    margin: 0 0 0 18px;
+  }
+
+  .contact {
+    margin: 0 -7px 0 12px;
+  }
+
+  .portfolio {
+    margin: 0 -9px 0 3px
+  }
+
+  .home-class {
+    margin: 0 0 0 1px;
   }
 
   i {
@@ -78,7 +97,7 @@
   }
 
   #carousel-example-generic {
-    margin: 40px 2px 0 2px;
+    margin: 30px 2px 0 2px;
     background-color: white;
   }
 
@@ -89,6 +108,12 @@
     font-style: italic;
     text-align: left;
     vertical-align: top;
+  }
+
+  .link-div {
+    margin: -20px 2px 0 0;
+    padding: 0;
+    float: right;
   }
   
 }
