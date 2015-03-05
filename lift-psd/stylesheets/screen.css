@@ -322,55 +322,60 @@ article, aside, details, figcaption, figure, footer, header, hgroup, main, menu,
 }
 /* line 52, ../sass/_some-words.scss */
 #some-words .who-we-are .who-column {
-  margin: -19px 0 0 18px;
+  margin: -1px 0 0 22px;
   width: 200px;
+  display: inline-block;
 }
-/* line 57, ../sass/_some-words.scss */
+/* line 58, ../sass/_some-words.scss */
 #some-words .who-we-are .who-column .page-image {
   width: 180px;
   margin: -19px 0 0 0;
 }
-/* line 62, ../sass/_some-words.scss */
+/* line 63, ../sass/_some-words.scss */
 #some-words .who-we-are .who-column .little-icon {
-  width: 20px;
+  width: 25px;
   display: inline-block;
 }
-/* line 69, ../sass/_some-words.scss */
+/* line 70, ../sass/_some-words.scss */
 #some-words .who-we-are .who-column p {
   font-family: arial, sans-serif;
   font-size: 13px;
   color: #3a4448;
 }
-/* line 75, ../sass/_some-words.scss */
+/* line 76, ../sass/_some-words.scss */
 #some-words .who-we-are .who-column h3 {
   font-family: arial, sans-serif;
   text-transform: uppercase;
   font-size: 14px;
   color: #0077d1;
   display: inline-block;
+  margin: 8px 0 0 0;
 }
-/* line 85, ../sass/_some-words.scss */
+/* line 87, ../sass/_some-words.scss */
 #some-words .who-we-are .seo-column {
   margin: -19px -20px 0 18px;
   width: 200px;
+  display: inline-block;
+  font-family: arial, sans-serif;
+  color: gray;
 }
-/* line 90, ../sass/_some-words.scss */
+/* line 95, ../sass/_some-words.scss */
 #some-words .who-we-are .seo-column .page-image {
   width: 180px;
   margin: -19px 0 0 0;
 }
-/* line 95, ../sass/_some-words.scss */
+/* line 100, ../sass/_some-words.scss */
 #some-words .who-we-are .seo-column .little-icon {
   width: 20px;
   display: inline-block;
 }
-/* line 102, ../sass/_some-words.scss */
+/* line 107, ../sass/_some-words.scss */
 #some-words .who-we-are .seo-column p {
   font-family: arial, sans-serif;
   font-size: 13px;
   color: #3a4448;
 }
-/* line 108, ../sass/_some-words.scss */
+/* line 113, ../sass/_some-words.scss */
 #some-words .who-we-are .seo-column h3 {
   font-family: arial, sans-serif;
   text-transform: uppercase;
@@ -378,32 +383,71 @@ article, aside, details, figcaption, figure, footer, header, hgroup, main, menu,
   color: #0077d1;
   display: inline-block;
 }
-/* line 120, ../sass/_some-words.scss */
+/* line 121, ../sass/_some-words.scss */
+#some-words .who-we-are .seo-column .alt-div {
+  height: 100px;
+  width: 100px;
+  background-color: blue;
+}
+/* line 131, ../sass/_some-words.scss */
 #some-words .seo-long {
   margin: -19px -20px 0 18px;
-  width: 200px;
+  width: 600px;
 }
-/* line 125, ../sass/_some-words.scss */
+/* line 136, ../sass/_some-words.scss */
 #some-words .seo-long .page-image {
   width: 180px;
   margin: -19px 0 0 0;
 }
-/* line 130, ../sass/_some-words.scss */
+/* line 141, ../sass/_some-words.scss */
 #some-words .seo-long .little-icon {
   width: 20px;
   display: inline-block;
 }
-/* line 137, ../sass/_some-words.scss */
+/* line 148, ../sass/_some-words.scss */
 #some-words .seo-long p {
   font-family: arial, sans-serif;
   font-size: 13px;
   color: #3a4448;
 }
-/* line 143, ../sass/_some-words.scss */
+/* line 154, ../sass/_some-words.scss */
 #some-words .seo-long h3 {
   font-family: arial, sans-serif;
   text-transform: uppercase;
   font-size: 14px;
   color: #0077d1;
   display: inline-block;
+}
+/* line 164, ../sass/_some-words.scss */
+#some-words .client-performance {
+  display: inline-block;
+  background-color: white;
+  width: 230px;
+  margin: 0 0 0 20px;
+  box-shadow: inset 0 0 0 3px #f7f7f7;
+  border: 1px solid #cbcfd1;
+}
+/* line 173, ../sass/_some-words.scss */
+#some-words .client-performance h3 {
+  font-family: arial, sans-serif;
+  font-size: 14px;
+  color: #0077d1;
+  margin: 10px 0 317px 0;
+  text-align: center;
+}
+/* line 181, ../sass/_some-words.scss */
+#some-words .client-performance p {
+  font-family: arial, sans-serif;
+  font-size: 11px;
+  color: #888888;
+  text-align: center;
+  margin: 0 10px 10px 10px;
+}
+/* line 189, ../sass/_some-words.scss */
+#some-words .client-performance .pricing {
+  margin: 0 0 0 55px;
+}
+/* line 196, ../sass/_some-words.scss */
+#some-words .logo-bottom {
+  float: right;
 }
