@@ -1,0 +1,119 @@
+#header {
+
+  width: 905px;
+  margin: 0 auto;
+
+  .google {
+    float: right;
+    width: 48px;
+    margin: 9px 0 0 0;
+  }
+
+  .logo {
+    margin: 25px 0 0 0;
+    width: 151px;
+  }
+
+  .google-text {
+    float: right;
+    margin: 12px 10px 0 -1px;
+  }
+
+  h1 {
+    font-family: arial, sans-serif;
+    color: #818181;
+    text-transform: uppercase;
+    font-size: 14px;
+    margin: 0;
+    padding: 0
+  }
+  h2 {
+    font-family: arial, sans-serif;
+    color: #818181;
+    text-transform: uppercase;
+    font-size: 17px;
+    margin: -3px 0 0 0;
+    padding: 0;
+  }
+  h3 {
+    font-family: arial, sans-serif;
+    color: #818181;
+    text-transform: uppercase;
+    font-size: 13px;
+    margin: -3px 0 0 0;
+    padding: 0;
+  }
+
+  h4 {
+    font-family: arial, sans-serif;
+    color: #818181;
+    text-transform: uppercase;
+    font-size: 13px;
+    display: inline-block;
+  }
+
+  hr {
+    color: pink;
+    width: 550px;
+    display: inline-block;
+    margin: 0 13px;
+  }
+
+  .link {
+    float: right;
+    margin: 15px 15px 0 0;
+  }
+
+  .blog {
+    margin: 0 0 0 18px;
+  }
+
+  .contact {
+    margin: 0 -7px 0 12px;
+  }
+
+  .portfolio {
+    margin: 0 -9px 0 3px
+  }
+
+  .home-class {
+    margin: 0 0 0 1px;
+  }
+
+  i {
+    color: #818181;
+  }
+
+  .item {
+    margin: auto;
+    padding: 0;
+    width: 893px;
+    height: 443px;
+  }
+
+  .slider {
+    vertical-align: top;
+
+  }
+
+  #carousel-example-generic {
+    margin: 30px 2px 0 2px;
+    background-color: white;
+  }
+
+  .carousel-caption {
+    font-family: arial, sans-serif;
+    font-size: 40px;
+    text-shadow: none;
+    font-style: italic;
+    text-align: left;
+    vertical-align: top;
+  }
+
+  .link-div {
+    margin: -20px 2px 0 0;
+    padding: 0;
+    float: right;
+  }
+  
+}
