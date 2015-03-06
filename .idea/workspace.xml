@@ -1,63 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="53e063de-4e31-48ef-87b7-774097ae3b9d" name="Default" comment="">
-      <change type="MOVED" beforePath="$PROJECT_DIR$/lift-psd/.sass-cache/65e4c30c131f260ea88c3e4f2e16dfc2ba547e74/_utilities.scssc" afterPath="$PROJECT_DIR$/public/.sass-cache/65e4c30c131f260ea88c3e4f2e16dfc2ba547e74/_utilities.scssc" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/lift-psd/.sass-cache/6aba3d3f326c930a9fa501043b0772affb6a2e2c/_black-bar.scssc" afterPath="$PROJECT_DIR$/public/.sass-cache/6aba3d3f326c930a9fa501043b0772affb6a2e2c/_black-bar.scssc" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/lift-psd/.sass-cache/6aba3d3f326c930a9fa501043b0772affb6a2e2c/_full-page.scssc" afterPath="$PROJECT_DIR$/public/.sass-cache/6aba3d3f326c930a9fa501043b0772affb6a2e2c/_full-page.scssc" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/lift-psd/.sass-cache/6aba3d3f326c930a9fa501043b0772affb6a2e2c/_header.scssc" afterPath="$PROJECT_DIR$/public/.sass-cache/6aba3d3f326c930a9fa501043b0772affb6a2e2c/_header.scssc" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/lift-psd/.sass-cache/6aba3d3f326c930a9fa501043b0772affb6a2e2c/_some-words.scssc" afterPath="$PROJECT_DIR$/public/.sass-cache/6aba3d3f326c930a9fa501043b0772affb6a2e2c/_some-words.scssc" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/lift-psd/.sass-cache/6aba3d3f326c930a9fa501043b0772affb6a2e2c/_titan3.scssc" afterPath="$PROJECT_DIR$/public/.sass-cache/6aba3d3f326c930a9fa501043b0772affb6a2e2c/_titan3.scssc" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/lift-psd/.sass-cache/6aba3d3f326c930a9fa501043b0772affb6a2e2c/ie.scssc" afterPath="$PROJECT_DIR$/public/.sass-cache/6aba3d3f326c930a9fa501043b0772affb6a2e2c/ie.scssc" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/lift-psd/.sass-cache/6aba3d3f326c930a9fa501043b0772affb6a2e2c/print.scssc" afterPath="$PROJECT_DIR$/public/.sass-cache/6aba3d3f326c930a9fa501043b0772affb6a2e2c/print.scssc" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/lift-psd/.sass-cache/6aba3d3f326c930a9fa501043b0772affb6a2e2c/screen.scssc" afterPath="$PROJECT_DIR$/public/.sass-cache/6aba3d3f326c930a9fa501043b0772affb6a2e2c/screen.scssc" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/lift-psd/.sass-cache/75fcaf1b4852ceb732871195e41567cc2a7d8997/Library/Ruby/Gems/2.0.0/gems/compass-core-1.0.3/stylesheets/compass/_reset.scssc" afterPath="$PROJECT_DIR$/public/.sass-cache/75fcaf1b4852ceb732871195e41567cc2a7d8997/Library/Ruby/Gems/2.0.0/gems/compass-core-1.0.3/stylesheets/compass/_reset.scssc" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/lift-psd/.sass-cache/75fcaf1b4852ceb732871195e41567cc2a7d8997/Users/alex/PhpstormProjects/lift-psd/lift-psd/sass/_black-bar.scssc" afterPath="$PROJECT_DIR$/public/.sass-cache/75fcaf1b4852ceb732871195e41567cc2a7d8997/Users/alex/PhpstormProjects/lift-psd/lift-psd/sass/_black-bar.scssc" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/lift-psd/.sass-cache/75fcaf1b4852ceb732871195e41567cc2a7d8997/Users/alex/PhpstormProjects/lift-psd/lift-psd/sass/_full-page.scssc" afterPath="$PROJECT_DIR$/public/.sass-cache/75fcaf1b4852ceb732871195e41567cc2a7d8997/Users/alex/PhpstormProjects/lift-psd/lift-psd/sass/_full-page.scssc" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/lift-psd/.sass-cache/75fcaf1b4852ceb732871195e41567cc2a7d8997/Users/alex/PhpstormProjects/lift-psd/lift-psd/sass/_header.scssc" afterPath="$PROJECT_DIR$/public/.sass-cache/75fcaf1b4852ceb732871195e41567cc2a7d8997/Users/alex/PhpstormProjects/lift-psd/lift-psd/sass/_header.scssc" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/lift-psd/.sass-cache/75fcaf1b4852ceb732871195e41567cc2a7d8997/Users/alex/PhpstormProjects/lift-psd/lift-psd/sass/_titan3.scssc" afterPath="$PROJECT_DIR$/public/.sass-cache/75fcaf1b4852ceb732871195e41567cc2a7d8997/Users/alex/PhpstormProjects/lift-psd/lift-psd/sass/_titan3.scssc" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/lift-psd/.sass-cache/af1a5722249b61fe97c5776f7a26e0902a00f406/_reset.scssc" afterPath="$PROJECT_DIR$/public/.sass-cache/af1a5722249b61fe97c5776f7a26e0902a00f406/_reset.scssc" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/lift-psd/config.rb" afterPath="$PROJECT_DIR$/public/config.rb" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/lift-psd/images/adobe.png" afterPath="$PROJECT_DIR$/public/images/adobe.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/lift-psd/images/alt-logo.png" afterPath="$PROJECT_DIR$/public/images/alt-logo.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/lift-psd/images/arrow.png" afterPath="$PROJECT_DIR$/public/images/arrow.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/lift-psd/images/button.png" afterPath="$PROJECT_DIR$/public/images/button.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/lift-psd/images/capabilities.jpg" afterPath="$PROJECT_DIR$/public/images/capabilities.jpg" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/lift-psd/images/case.png" afterPath="$PROJECT_DIR$/public/images/case.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/lift-psd/images/coca-cola.png" afterPath="$PROJECT_DIR$/public/images/coca-cola.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/lift-psd/images/comment.png" afterPath="$PROJECT_DIR$/public/images/comment.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/lift-psd/images/footer-blue.png" afterPath="$PROJECT_DIR$/public/images/footer-blue.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/lift-psd/images/footer.png" afterPath="$PROJECT_DIR$/public/images/footer.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/lift-psd/images/franklin-covey.png" afterPath="$PROJECT_DIR$/public/images/franklin-covey.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/lift-psd/images/google.png" afterPath="$PROJECT_DIR$/public/images/google.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/lift-psd/images/gradient.png" afterPath="$PROJECT_DIR$/public/images/gradient.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/lift-psd/images/lift-logo.png" afterPath="$PROJECT_DIR$/public/images/lift-logo.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/lift-psd/images/line-shadow.png" afterPath="$PROJECT_DIR$/public/images/line-shadow.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/lift-psd/images/nickelodeon.png" afterPath="$PROJECT_DIR$/public/images/nickelodeon.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/lift-psd/images/not-available.jpg" afterPath="$PROJECT_DIR$/public/images/not-available.jpg" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/lift-psd/images/note.png" afterPath="$PROJECT_DIR$/public/images/note.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/lift-psd/images/person.png" afterPath="$PROJECT_DIR$/public/images/person.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/lift-psd/images/pricing-button.png" afterPath="$PROJECT_DIR$/public/images/pricing-button.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/lift-psd/images/slide-circles.png" afterPath="$PROJECT_DIR$/public/images/slide-circles.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/lift-psd/images/slider-button.png" afterPath="$PROJECT_DIR$/public/images/slider-button.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/lift-psd/images/slider.jpg" afterPath="$PROJECT_DIR$/public/images/slider.jpg" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/lift-psd/images/slider.png" afterPath="$PROJECT_DIR$/public/images/slider.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/lift-psd/images/star.png" afterPath="$PROJECT_DIR$/public/images/star.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/lift-psd/images/td-ameritrade.png" afterPath="$PROJECT_DIR$/public/images/td-ameritrade.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/lift-psd/images/web-page.jpg" afterPath="$PROJECT_DIR$/public/images/web-page.jpg" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/lift-psd/sass/_black-bar.scss" afterPath="$PROJECT_DIR$/public/sass/_black-bar.scss" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/lift-psd/sass/_header.scss" afterPath="$PROJECT_DIR$/public/sass/_header.scss" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/lift-psd/sass/_some-words.scss" afterPath="$PROJECT_DIR$/public/sass/_some-words.scss" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/lift-psd/sass/_titan3.scss" afterPath="$PROJECT_DIR$/public/sass/_titan3.scss" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/lift-psd/sass/ie.scss" afterPath="$PROJECT_DIR$/public/sass/ie.scss" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/lift-psd/sass/print.scss" afterPath="$PROJECT_DIR$/public/sass/print.scss" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/lift-psd/sass/screen.scss" afterPath="$PROJECT_DIR$/public/sass/screen.scss" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/lift-psd/stylesheets/ie.css" afterPath="$PROJECT_DIR$/public/stylesheets/ie.css" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/lift-psd/stylesheets/print.css" afterPath="$PROJECT_DIR$/public/stylesheets/print.css" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/lift-psd/stylesheets/screen.css" afterPath="$PROJECT_DIR$/public/stylesheets/screen.css" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/lift-psd/views/index.html" afterPath="$PROJECT_DIR$/public/views/index.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-    </list>
+    <list default="true" id="53e063de-4e31-48ef-87b7-774097ae3b9d" name="Default" comment="" />
     <ignored path="lift-psd.iws" />
     <ignored path=".idea/workspace.xml" />
     <ignored path=".idea/dataSources.local.xml" />
@@ -94,8 +38,8 @@
       <file leaf-file-name="index.html" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/public/views/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.84437084" vertical-offset="0" max-vertical-offset="3000">
-              <caret line="34" column="46" selection-start-line="34" selection-start-column="46" selection-end-line="34" selection-end-column="46" />
+            <state vertical-scroll-proportion="0.37251654" vertical-offset="0" max-vertical-offset="3000">
+              <caret line="15" column="31" selection-start-line="15" selection-start-column="31" selection-end-line="15" selection-end-column="31" />
               <folding>
                 <marker date="1425602361000" expanded="true" signature="10136:10150" placeholder="--full-page-..." />
               </folding>
@@ -233,7 +177,7 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="23" width="1280" height="725" extended-state="6" />
-    <editor active="false" />
+    <editor active="true" />
     <layout>
       <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
@@ -241,7 +185,7 @@
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Application Servers" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.25" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.25" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
@@ -421,8 +365,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/public/views/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.84437084" vertical-offset="0" max-vertical-offset="3000">
-          <caret line="34" column="46" selection-start-line="34" selection-start-column="46" selection-end-line="34" selection-end-column="46" />
+        <state vertical-scroll-proportion="0.37251654" vertical-offset="0" max-vertical-offset="3000">
+          <caret line="15" column="31" selection-start-line="15" selection-start-column="31" selection-end-line="15" selection-end-column="31" />
           <folding>
             <marker date="1425602361000" expanded="true" signature="10136:10150" placeholder="--full-page-..." />
           </folding>
