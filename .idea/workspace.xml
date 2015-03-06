@@ -2,10 +2,60 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="53e063de-4e31-48ef-87b7-774097ae3b9d" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/lift-psd/.sass-cache/6aba3d3f326c930a9fa501043b0772affb6a2e2c/_titan3.scssc" afterPath="$PROJECT_DIR$/lift-psd/.sass-cache/6aba3d3f326c930a9fa501043b0772affb6a2e2c/_titan3.scssc" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/lift-psd/sass/_titan3.scss" afterPath="$PROJECT_DIR$/lift-psd/sass/_titan3.scss" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/lift-psd/views/index.html" afterPath="$PROJECT_DIR$/lift-psd/views/index.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/lift-psd/stylesheets/screen.css" afterPath="$PROJECT_DIR$/lift-psd/stylesheets/screen.css" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/lift-psd/.sass-cache/65e4c30c131f260ea88c3e4f2e16dfc2ba547e74/_utilities.scssc" afterPath="$PROJECT_DIR$/public/.sass-cache/65e4c30c131f260ea88c3e4f2e16dfc2ba547e74/_utilities.scssc" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/lift-psd/.sass-cache/6aba3d3f326c930a9fa501043b0772affb6a2e2c/_black-bar.scssc" afterPath="$PROJECT_DIR$/public/.sass-cache/6aba3d3f326c930a9fa501043b0772affb6a2e2c/_black-bar.scssc" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/lift-psd/.sass-cache/6aba3d3f326c930a9fa501043b0772affb6a2e2c/_full-page.scssc" afterPath="$PROJECT_DIR$/public/.sass-cache/6aba3d3f326c930a9fa501043b0772affb6a2e2c/_full-page.scssc" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/lift-psd/.sass-cache/6aba3d3f326c930a9fa501043b0772affb6a2e2c/_header.scssc" afterPath="$PROJECT_DIR$/public/.sass-cache/6aba3d3f326c930a9fa501043b0772affb6a2e2c/_header.scssc" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/lift-psd/.sass-cache/6aba3d3f326c930a9fa501043b0772affb6a2e2c/_some-words.scssc" afterPath="$PROJECT_DIR$/public/.sass-cache/6aba3d3f326c930a9fa501043b0772affb6a2e2c/_some-words.scssc" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/lift-psd/.sass-cache/6aba3d3f326c930a9fa501043b0772affb6a2e2c/_titan3.scssc" afterPath="$PROJECT_DIR$/public/.sass-cache/6aba3d3f326c930a9fa501043b0772affb6a2e2c/_titan3.scssc" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/lift-psd/.sass-cache/6aba3d3f326c930a9fa501043b0772affb6a2e2c/ie.scssc" afterPath="$PROJECT_DIR$/public/.sass-cache/6aba3d3f326c930a9fa501043b0772affb6a2e2c/ie.scssc" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/lift-psd/.sass-cache/6aba3d3f326c930a9fa501043b0772affb6a2e2c/print.scssc" afterPath="$PROJECT_DIR$/public/.sass-cache/6aba3d3f326c930a9fa501043b0772affb6a2e2c/print.scssc" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/lift-psd/.sass-cache/6aba3d3f326c930a9fa501043b0772affb6a2e2c/screen.scssc" afterPath="$PROJECT_DIR$/public/.sass-cache/6aba3d3f326c930a9fa501043b0772affb6a2e2c/screen.scssc" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/lift-psd/.sass-cache/75fcaf1b4852ceb732871195e41567cc2a7d8997/Library/Ruby/Gems/2.0.0/gems/compass-core-1.0.3/stylesheets/compass/_reset.scssc" afterPath="$PROJECT_DIR$/public/.sass-cache/75fcaf1b4852ceb732871195e41567cc2a7d8997/Library/Ruby/Gems/2.0.0/gems/compass-core-1.0.3/stylesheets/compass/_reset.scssc" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/lift-psd/.sass-cache/75fcaf1b4852ceb732871195e41567cc2a7d8997/Users/alex/PhpstormProjects/lift-psd/lift-psd/sass/_black-bar.scssc" afterPath="$PROJECT_DIR$/public/.sass-cache/75fcaf1b4852ceb732871195e41567cc2a7d8997/Users/alex/PhpstormProjects/lift-psd/lift-psd/sass/_black-bar.scssc" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/lift-psd/.sass-cache/75fcaf1b4852ceb732871195e41567cc2a7d8997/Users/alex/PhpstormProjects/lift-psd/lift-psd/sass/_full-page.scssc" afterPath="$PROJECT_DIR$/public/.sass-cache/75fcaf1b4852ceb732871195e41567cc2a7d8997/Users/alex/PhpstormProjects/lift-psd/lift-psd/sass/_full-page.scssc" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/lift-psd/.sass-cache/75fcaf1b4852ceb732871195e41567cc2a7d8997/Users/alex/PhpstormProjects/lift-psd/lift-psd/sass/_header.scssc" afterPath="$PROJECT_DIR$/public/.sass-cache/75fcaf1b4852ceb732871195e41567cc2a7d8997/Users/alex/PhpstormProjects/lift-psd/lift-psd/sass/_header.scssc" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/lift-psd/.sass-cache/75fcaf1b4852ceb732871195e41567cc2a7d8997/Users/alex/PhpstormProjects/lift-psd/lift-psd/sass/_titan3.scssc" afterPath="$PROJECT_DIR$/public/.sass-cache/75fcaf1b4852ceb732871195e41567cc2a7d8997/Users/alex/PhpstormProjects/lift-psd/lift-psd/sass/_titan3.scssc" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/lift-psd/.sass-cache/af1a5722249b61fe97c5776f7a26e0902a00f406/_reset.scssc" afterPath="$PROJECT_DIR$/public/.sass-cache/af1a5722249b61fe97c5776f7a26e0902a00f406/_reset.scssc" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/lift-psd/config.rb" afterPath="$PROJECT_DIR$/public/config.rb" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/lift-psd/images/adobe.png" afterPath="$PROJECT_DIR$/public/images/adobe.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/lift-psd/images/alt-logo.png" afterPath="$PROJECT_DIR$/public/images/alt-logo.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/lift-psd/images/arrow.png" afterPath="$PROJECT_DIR$/public/images/arrow.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/lift-psd/images/button.png" afterPath="$PROJECT_DIR$/public/images/button.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/lift-psd/images/capabilities.jpg" afterPath="$PROJECT_DIR$/public/images/capabilities.jpg" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/lift-psd/images/case.png" afterPath="$PROJECT_DIR$/public/images/case.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/lift-psd/images/coca-cola.png" afterPath="$PROJECT_DIR$/public/images/coca-cola.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/lift-psd/images/comment.png" afterPath="$PROJECT_DIR$/public/images/comment.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/lift-psd/images/footer-blue.png" afterPath="$PROJECT_DIR$/public/images/footer-blue.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/lift-psd/images/footer.png" afterPath="$PROJECT_DIR$/public/images/footer.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/lift-psd/images/franklin-covey.png" afterPath="$PROJECT_DIR$/public/images/franklin-covey.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/lift-psd/images/google.png" afterPath="$PROJECT_DIR$/public/images/google.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/lift-psd/images/gradient.png" afterPath="$PROJECT_DIR$/public/images/gradient.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/lift-psd/images/lift-logo.png" afterPath="$PROJECT_DIR$/public/images/lift-logo.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/lift-psd/images/line-shadow.png" afterPath="$PROJECT_DIR$/public/images/line-shadow.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/lift-psd/images/nickelodeon.png" afterPath="$PROJECT_DIR$/public/images/nickelodeon.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/lift-psd/images/not-available.jpg" afterPath="$PROJECT_DIR$/public/images/not-available.jpg" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/lift-psd/images/note.png" afterPath="$PROJECT_DIR$/public/images/note.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/lift-psd/images/person.png" afterPath="$PROJECT_DIR$/public/images/person.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/lift-psd/images/pricing-button.png" afterPath="$PROJECT_DIR$/public/images/pricing-button.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/lift-psd/images/slide-circles.png" afterPath="$PROJECT_DIR$/public/images/slide-circles.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/lift-psd/images/slider-button.png" afterPath="$PROJECT_DIR$/public/images/slider-button.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/lift-psd/images/slider.jpg" afterPath="$PROJECT_DIR$/public/images/slider.jpg" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/lift-psd/images/slider.png" afterPath="$PROJECT_DIR$/public/images/slider.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/lift-psd/images/star.png" afterPath="$PROJECT_DIR$/public/images/star.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/lift-psd/images/td-ameritrade.png" afterPath="$PROJECT_DIR$/public/images/td-ameritrade.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/lift-psd/images/web-page.jpg" afterPath="$PROJECT_DIR$/public/images/web-page.jpg" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/lift-psd/sass/_black-bar.scss" afterPath="$PROJECT_DIR$/public/sass/_black-bar.scss" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/lift-psd/sass/_header.scss" afterPath="$PROJECT_DIR$/public/sass/_header.scss" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/lift-psd/sass/_some-words.scss" afterPath="$PROJECT_DIR$/public/sass/_some-words.scss" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/lift-psd/sass/_titan3.scss" afterPath="$PROJECT_DIR$/public/sass/_titan3.scss" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/lift-psd/sass/ie.scss" afterPath="$PROJECT_DIR$/public/sass/ie.scss" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/lift-psd/sass/print.scss" afterPath="$PROJECT_DIR$/public/sass/print.scss" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/lift-psd/sass/screen.scss" afterPath="$PROJECT_DIR$/public/sass/screen.scss" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/lift-psd/stylesheets/ie.css" afterPath="$PROJECT_DIR$/public/stylesheets/ie.css" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/lift-psd/stylesheets/print.css" afterPath="$PROJECT_DIR$/public/stylesheets/print.css" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/lift-psd/stylesheets/screen.css" afterPath="$PROJECT_DIR$/public/stylesheets/screen.css" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/lift-psd/views/index.html" afterPath="$PROJECT_DIR$/public/views/index.html" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="lift-psd.iws" />
@@ -32,20 +82,20 @@
   <component name="FileEditorManager">
     <leaf>
       <file leaf-file-name="screen.scss" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/lift-psd/sass/screen.scss">
+        <entry file="file://$PROJECT_DIR$/public/sass/screen.scss">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="-1.8367347" vertical-offset="0" max-vertical-offset="180">
+            <state vertical-scroll-proportion="0.0" vertical-offset="90" max-vertical-offset="180">
               <caret line="6" column="17" selection-start-line="6" selection-start-column="17" selection-end-line="6" selection-end-column="17" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="index.html" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/lift-psd/views/index.html">
+      <file leaf-file-name="index.html" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/public/views/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="-17.5" vertical-offset="1470" max-vertical-offset="3000">
-              <caret line="126" column="33" selection-start-line="126" selection-start-column="33" selection-end-line="126" selection-end-column="33" />
+            <state vertical-scroll-proportion="0.84437084" vertical-offset="0" max-vertical-offset="3000">
+              <caret line="34" column="46" selection-start-line="34" selection-start-column="46" selection-end-line="34" selection-end-column="46" />
               <folding>
                 <marker date="1425602361000" expanded="true" signature="10136:10150" placeholder="--full-page-..." />
               </folding>
@@ -53,10 +103,10 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="_titan3.scss" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/lift-psd/sass/_titan3.scss">
+      <file leaf-file-name="_titan3.scss" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/public/sass/_titan3.scss">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.74003464" vertical-offset="6503" max-vertical-offset="7665">
+            <state vertical-scroll-proportion="-12.166667" vertical-offset="6638" max-vertical-offset="7665">
               <caret line="462" column="0" selection-start-line="462" selection-start-column="0" selection-end-line="462" selection-end-column="0" />
               <folding />
             </state>
@@ -114,6 +164,7 @@
       <sortByType />
     </navigator>
     <panes>
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <PATH>
@@ -132,95 +183,8 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="lift-psd" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="lift-psd" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="lift-psd" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="lift-psd" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="lift-psd" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="lift-psd" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="views" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="lift-psd" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="lift-psd" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="lift-psd" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="stylesheets" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="lift-psd" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="lift-psd" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="lift-psd" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="sass" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="lift-psd" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="lift-psd" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="lift-psd" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="images" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
         </subPane>
       </pane>
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -243,9 +207,6 @@
       <BehatRunner />
       <method />
     </configuration>
-    <configuration default="true" type="PhpUnitRemoteRunConfigurationType" factoryName="PHPUnit on Server">
-      <method />
-    </configuration>
     <configuration default="true" type="js.build_tools.gulp" factoryName="Gulp.js">
       <node-options />
       <gulpfile />
@@ -253,6 +214,9 @@
       <arguments />
       <pass-parent-envs>true</pass-parent-envs>
       <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="PhpUnitRemoteRunConfigurationType" factoryName="PHPUnit on Server">
       <method />
     </configuration>
     <list size="0" />
@@ -269,27 +233,27 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="23" width="1280" height="725" extended-state="6" />
-    <editor active="true" />
+    <editor active="false" />
     <layout>
       <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
-      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.3292683" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Application Servers" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.25" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.25" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.3292683" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
-      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
-      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
     </layout>
   </component>
   <component name="Vcs.Log.UiProperties">
@@ -313,7 +277,33 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/lift-psd/sass/screen.scss">
+    <entry file="file://$PROJECT_DIR$/public/sass/screen.scss">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="90" max-vertical-offset="180">
+          <caret line="6" column="17" selection-start-line="6" selection-start-column="17" selection-end-line="6" selection-end-column="17" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/public/views/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="1470" max-vertical-offset="3000">
+          <caret line="126" column="33" selection-start-line="126" selection-start-column="33" selection-end-line="126" selection-end-column="33" />
+          <folding>
+            <marker date="1425602361000" expanded="true" signature="10136:10150" placeholder="--full-page-..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/public/sass/_titan3.scss">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="7665">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/public/sass/screen.scss">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0" vertical-offset="135" max-vertical-offset="225">
           <caret line="9" column="21" selection-start-line="9" selection-start-column="21" selection-end-line="9" selection-end-column="21" />
@@ -321,7 +311,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/lift-psd/views/index.html">
+    <entry file="file://$PROJECT_DIR$/public/views/index.html">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="2625">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
@@ -331,31 +321,28 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/lift-psd/sass/_some-words.scss">
+    <entry file="file://$PROJECT_DIR$/public/sass/_some-words.scss">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0" vertical-offset="1676" max-vertical-offset="2370">
           <caret line="150" column="3" selection-start-line="150" selection-start-column="3" selection-end-line="150" selection-end-column="3" />
-          <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/lift-psd/sass/_black-bar.scss">
+    <entry file="file://$PROJECT_DIR$/public/sass/_black-bar.scss">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0" vertical-offset="758" max-vertical-offset="1335">
           <caret line="70" column="30" selection-start-line="70" selection-start-column="30" selection-end-line="70" selection-end-column="30" />
-          <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/lift-psd/sass/_header.scss">
+    <entry file="file://$PROJECT_DIR$/public/sass/_header.scss">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0" vertical-offset="573" max-vertical-offset="1860">
           <caret line="51" column="25" selection-start-line="51" selection-start-column="20" selection-end-line="51" selection-end-column="25" />
-          <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/lift-psd/sass/screen.scss">
+    <entry file="file://$PROJECT_DIR$/public/sass/screen.scss">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0" vertical-offset="105" max-vertical-offset="195">
           <caret line="7" column="17" selection-start-line="7" selection-start-column="17" selection-end-line="7" selection-end-column="17" />
@@ -363,7 +350,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/lift-psd/views/index.html">
+    <entry file="file://$PROJECT_DIR$/public/views/index.html">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="1245">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
@@ -373,21 +360,21 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/lift-psd/stylesheets/ie.css">
+    <entry file="file://$PROJECT_DIR$/public/stylesheets/ie.css">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="628">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/lift-psd/stylesheets/print.css">
+    <entry file="file://$PROJECT_DIR$/public/stylesheets/print.css">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="628">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/lift-psd/stylesheets/screen.css">
+    <entry file="file://$PROJECT_DIR$/public/stylesheets/screen.css">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0" vertical-offset="345" max-vertical-offset="6870">
           <caret line="24" column="0" selection-start-line="24" selection-start-column="0" selection-end-line="24" selection-end-column="0" />
@@ -395,53 +382,50 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/lift-psd/sass/_header.scss">
+    <entry file="file://$PROJECT_DIR$/public/sass/_header.scss">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="-0.0" vertical-offset="0" max-vertical-offset="1860">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="118" selection-end-column="1" />
-          <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/lift-psd/sass/_black-bar.scss">
+    <entry file="file://$PROJECT_DIR$/public/sass/_black-bar.scss">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="-0.0" vertical-offset="0" max-vertical-offset="1335">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="83" selection-end-column="1" />
-          <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/lift-psd/sass/_some-words.scss">
+    <entry file="file://$PROJECT_DIR$/public/sass/_some-words.scss">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.95033115" vertical-offset="2411" max-vertical-offset="3075">
           <caret line="199" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="199" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/lift-psd/sass/screen.scss">
+    <entry file="file://$PROJECT_DIR$/public/sass/screen.scss">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-1.8367347" vertical-offset="0" max-vertical-offset="180">
+        <state vertical-scroll-proportion="0.0" vertical-offset="90" max-vertical-offset="180">
           <caret line="6" column="17" selection-start-line="6" selection-start-column="17" selection-end-line="6" selection-end-column="17" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/lift-psd/views/index.html">
+    <entry file="file://$PROJECT_DIR$/public/sass/_titan3.scss">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-17.5" vertical-offset="1470" max-vertical-offset="3000">
-          <caret line="126" column="33" selection-start-line="126" selection-start-column="33" selection-end-line="126" selection-end-column="33" />
-          <folding>
-            <marker date="1425602361000" expanded="true" signature="10136:10150" placeholder="--full-page-..." />
-          </folding>
+        <state vertical-scroll-proportion="-12.166667" vertical-offset="6638" max-vertical-offset="7665">
+          <caret line="462" column="0" selection-start-line="462" selection-start-column="0" selection-end-line="462" selection-end-column="0" />
+          <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/lift-psd/sass/_titan3.scss">
+    <entry file="file://$PROJECT_DIR$/public/views/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.74003464" vertical-offset="6503" max-vertical-offset="7665">
-          <caret line="462" column="0" selection-start-line="462" selection-start-column="0" selection-end-line="462" selection-end-column="0" />
-          <folding />
+        <state vertical-scroll-proportion="0.84437084" vertical-offset="0" max-vertical-offset="3000">
+          <caret line="34" column="46" selection-start-line="34" selection-start-column="46" selection-end-line="34" selection-end-column="46" />
+          <folding>
+            <marker date="1425602361000" expanded="true" signature="10136:10150" placeholder="--full-page-..." />
+          </folding>
         </state>
       </provider>
     </entry>
