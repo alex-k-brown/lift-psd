@@ -216,7 +216,7 @@
 
   } /*black-bar*/
 
-  #some-words {
+  .some-words {
     width: 905px;
     margin: 3px auto 0 auto;
 
@@ -635,7 +635,7 @@
 
       } /*black-bar*/
 
-      #some-words {
+      .some-words {
         width: 100%;
 
         img {
@@ -781,7 +781,7 @@
         .adobe {
           height: 30px;
         }
-        
+
         a {
           margin: 0;
         }
@@ -807,4 +807,361 @@
     }  /*titan3*/
   }/*body*/
 }/*max-width 768px*/
+
+
+/******************************iPhone CSS*******************************/
+
+@media screen and (max-width: 400px) {
+  body {
+    #titan3 {
+      .header {
+        width: 100%;
+        margin: 0;
+        padding: 0;
+
+        .logo {
+          margin: 20px 0 0 10px;
+        }
+
+        h4 {
+          font-size: 12px;
+
+        } /*h4*/
+
+        .link {
+          margin: 30px 10px 0 0;
+        }
+
+        .item {
+          width: 300px;
+          height: 170px;
+          margin: 0 auto;
+        }
+
+        #carousel-example-generic {
+          margin: 60px auto 0 auto;
+          padding: 0;
+          width: 300px;
+        }
+
+        .carousel-caption {
+
+          margin: 0 auto;
+
+          img {
+            width: 100px;
+          }
+
+        }
+
+      } /*header*/
+
+      .black-bar {
+        margin: 30px 0;
+
+        .bar{
+
+          .lorem-ipsum{
+            width: 100%;
+            margin: 30px auto 0 auto;
+            background-color: #ebedec;
+            h1 {
+              width: 250px;
+              margin: 20px auto 0 auto;
+              font-size: 22px;
+              color: #0077d1;
+            }
+            p {
+              width: 250px;
+              margin: 20px auto 0 auto;
+              color: black;
+            }
+
+            .item-list {
+              margin: 15px 0 0 60px;
+              color: black;
+            }
+
+          }
+
+        }/*bar*/
+        .logo-box {
+          margin: 0 auto;
+          width: 200px;
+          padding: 0;
+
+          img {
+            width: 200px;
+            margin: 20px auto 10px auto;
+          }
+
+          h2 {
+            width: 250px;
+            margin: 0 auto;
+          }
+
+          h3 {
+            width: 250px;
+            margin: 0 auto;
+          }
+
+          h4 {
+            width: 250px;
+            margin: 0 auto;
+          }
+
+          h5 {
+            width: 250px;
+            margin: 0 auto;
+          }
+
+          a {
+            width: 200px;
+            margin: 0 auto;
+
+
+            img {
+              width: 175px;
+              margin: 20px auto 25px auto;
+
+            }/*img*/
+
+          }/*a*/
+
+        }/*logo-box*/
+
+      }/*black-bar*/
+
+      .some-words {
+        width: 100%;
+        margin: 0 auto;
+        padding: 30px 0 0 0;
+        background-color: white;
+        display: block;
+
+        h1 {
+          display: block;
+          color: black;
+          width: 270px;
+          margin: 0 auto;
+        }
+
+        img {
+          width: 200px;
+          margin: 20px auto 0 auto;
+          display: block;
+          padding: 0 20px 0 0;
+
+        }
+
+        .social {
+          width: 200px;
+          display: block;
+          margin: 0 auto;
+          float: none;
+          text-align: center;
+
+          h2 {
+            width: 200px;
+            margin: 10px auto 0 auto;
+            display: block;
+
+            i {
+              margin: 0;
+            }/*i*/
+
+          }/*h2*/
+
+        } /*social*/
+
+        .who-we-are {
+          width: 100%;
+          background-image: none;
+          margin: 0 auto;
+
+          .who-column {
+            display: block;
+            width: 100%;
+            margin: 20px auto 0 auto;
+
+
+            .page-image {
+              width: 275px;
+              margin: 0 auto;
+            }
+
+            .little-icon {
+              width: 0;
+            }
+
+            .little-icon-smaller {
+              width: 0;
+            }
+
+            p {
+              width: 250px;
+              margin: 10px auto 0 auto;
+
+            h3 {
+              width: 250px;
+              display: block;
+              margin: 0 auto;
+            }
+
+            }/*p*/
+
+          }/*who-column*/
+
+        }/*who-we-are*/
+
+        .seo-section {
+          width: 100%;
+          display: block;
+          float: none;
+          background-image: none;
+          margin: 0 auto;
+          padding: 0 0 30px 0;
+
+
+          .seo-list {
+            width: 100%;
+            display: block;
+            float: none;
+            margin: 30px auto 0 auto;
+
+            padding: 0;
+
+
+            .seo-column {
+              width: 100%;
+              float: none;
+              display: block;
+              margin: 20px auto 0 auto;
+              padding: 0;
+
+
+              .page-image {
+                width: 250px;
+                display: block;
+                margin: 0 auto;
+                float: none;
+              }
+
+              h3 {
+                width: 250px;
+                display: block;
+                margin: 20px auto 0 auto;
+              }
+
+              p {
+                width: 250px;
+                display: block;
+                margin: 10px auto 0 auto;
+              }
+
+            }/*seo-column*/
+
+            .seo-column:nth-child(3) {
+              width: 100%;
+              display: block;
+              margin: 20px auto 0 auto;
+              padding: 0;
+              float: none;
+
+              h3 {
+                width: 250px;
+                display: block;
+                margin: 20px auto 0 auto;
+                float: none;
+              }
+
+              p {
+                width: 250px;
+                display: block;
+                margin: 10px auto 0 auto;
+                float: none;
+              }
+
+            }
+
+
+          }/*seo-list*/
+
+          .seo-long {
+
+            width: 100%;
+            display: block;
+            margin: 30px auto 0 auto;
+            float: none;
+
+            p {
+              width: 250px;
+              display: block;
+              margin: 20px auto 0 auto;
+            }
+
+            h3 {
+              display: block;
+              width: 250px;
+              margin: 0 auto;
+            }
+
+          } /*seo-long*/
+
+          .client-performance {
+            width: 250px;
+            display: block;
+            margin: 30px auto 0 auto;
+            float: none;
+
+            .pricing {
+              width: 100px;
+              margin: 0 auto;
+
+            }
+          }
+
+        }/*seo-section*/
+
+      .logo-bottom {
+        width: 150px;
+        display: block;
+        margin: 20px 0 0 20px;
+      }
+
+      }/*some-words*/
+
+      .footer {
+        width: 100%;
+        margin: 0 auto;
+        background-image: none;
+        padding: 90px 0 20px 40px;
+
+        img {
+          margin: 5px 0 0 20px;
+          display: block;
+        }
+
+        .phone {
+
+          a {
+            color: blue;
+            margin: 0;
+          }
+
+          p {
+
+            color: black;
+            margin: -215px 0 0 10px;
+            float: left;
+
+          }
+
+        }
+
+      }/*footer*/
+
+    }/*titan3*/
+  } /*body*/
+} /*max-width 400px*/
 
