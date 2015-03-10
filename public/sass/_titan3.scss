@@ -91,6 +91,9 @@
     } /*color*/
 
     .header-menu {
+
+      float: right;
+
       .menu {
         ul {
           padding:0;
@@ -99,8 +102,12 @@
             display: inline-block;
             float: left;
             list-style: none;
-            padding: 0 0 0 5px;
+            padding: 0 0 0 20px;
             margin: 0;
+
+            i{
+              padding: 0 10px 0 0;
+            }
           }
         }
       }
@@ -124,9 +131,10 @@
     }
 
     .item {
-      margin: auto;
-      padding: 0;
       width: 900px;
+      float: none;
+      margin: 0 auto;
+      padding: 0;
       height: 453px;
     } /*item*/
 
@@ -135,9 +143,12 @@
     } /*slider*/
 
     #carousel-example-generic {
-      margin: 40px 2px 0 2px;
+      width: 500px;
+      float: none;
+      margin: 40px auto 0 auto;
       background-color: white;
       box-shadow: 0 0 20px #b9b8b9;
+
     } /*carousel-example-generic*/
 
     .carousel-caption {
