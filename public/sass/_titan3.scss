@@ -65,26 +65,6 @@
       display: inline-block;
     } /*h4*/
 
-    .link {
-      float: right;
-      margin: 15px 15px 0 0;
-    } /*link*/
-
-    .blog {
-      margin: 0 0 0 18px;
-    } /*blog*/
-
-    .contact {
-      margin: 0 -7px 0 12px;
-    } /*contact*/
-
-    .portfolio {
-      margin: 0 -9px 0 3px
-    }
-
-    .home-class {
-      margin: 0 0 0 1px;
-    } /*home-class*/
 
     i {
       color: #818181;
@@ -107,6 +87,11 @@
 
             i{
               padding: 0 10px 0 0;
+            }
+
+            a{
+              color: #818181;
+              font-size: 15px;
             }
           }
         }
