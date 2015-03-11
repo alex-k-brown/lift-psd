@@ -889,6 +889,7 @@
           margin: 0 0 0 20px;
           padding: 20px 0 0 0;
           vertical-align: top;
+          float: right;
 
         }
 
@@ -904,14 +905,15 @@
         .header-menu {
 
           display: inline-block;
-          width: 100px;
+          width: 110px;
           float: none;
           margin: 15px 0 0 20px;
 
           .menuIcon {
             background: #ebedec;
-            text-align: right;
-            font-size: 40px;
+            text-align: left;
+            font-size: 30px;
+            margin: 6px 0 0 -7px;
             &:hover {
               background: #ebedec;
             }
@@ -927,7 +929,7 @@
             float: none;
             text-align: center;
             width: 100%;
-            margin: 0 auto;
+            margin: 0;
             @include transition(max-height 0.5s);
             &.menuOpen {
               max-height: 1000px;
@@ -938,25 +940,32 @@
               width: 100%;
               display: block;
               float: none;
-              margin: 0 auto;
+              margin: 0;
 
               li {
                 display: block;
                 width: 100%;
                 float: none;
-                background: #ebedec;
+                background: #818181;
+                margin: 0;
+                padding: 5px 0 5px 10px;
+                color: white;
+                border-top: solid white 1px;
 
-                text-align: right;
+                text-align: left;
                 &:hover {
                   background: #ebedec;
                 }
                 a {
-                  color: #818181;
-                  padding: 10px 0;
+                  color: white;
+                  padding: 0;
                   width: 100px;
                   float: none;
                   display: block;
-                  margin: 0 auto;
+                  margin: 0;
+                  i {
+                    color: white;
+                  }
                 }
 
               }
