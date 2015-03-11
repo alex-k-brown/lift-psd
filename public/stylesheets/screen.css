@@ -216,7 +216,7 @@ article, aside, details, figcaption, figure, footer, header, hgroup, main, menu,
 }
 /* line 130, ../sass/_titan3.scss */
 #titan3 .header #carousel-example-generic {
-  width: 500px;
+  width: 900px;
   float: none;
   margin: 40px auto 0 auto;
   background-color: white;
@@ -958,29 +958,53 @@ article, aside, details, figcaption, figure, footer, header, hgroup, main, menu,
   }
   /* line 886, ../sass/_titan3.scss */
   body #titan3 .header .logo {
-    margin: 20px 0 0 10px;
+    width: 150px;
+    display: inline-block;
+    margin: 0 0 0 20px;
+    padding: 20px 0 0 0;
+    vertical-align: top;
   }
-  /* line 890, ../sass/_titan3.scss */
+  /* line 895, ../sass/_titan3.scss */
   body #titan3 .header h4 {
     font-size: 12px;
   }
-  /* line 895, ../sass/_titan3.scss */
+  /* line 900, ../sass/_titan3.scss */
   body #titan3 .header .link {
     margin: 30px 10px 0 0;
   }
-  /* line 900, ../sass/_titan3.scss */
+  /* line 904, ../sass/_titan3.scss */
+  body #titan3 .header .header-menu {
+    display: inline-block;
+    width: 100px;
+    float: none;
+    margin: 15px 0 0 20px;
+  }
+  /* line 911, ../sass/_titan3.scss */
+  body #titan3 .header .header-menu .menuIcon {
+    background: #ebedec;
+    text-align: right;
+    font-size: 40px;
+  }
+  /* line 915, ../sass/_titan3.scss */
+  body #titan3 .header .header-menu .menuIcon:hover {
+    background: #ebedec;
+  }
+  /* line 922, ../sass/_titan3.scss */
   body #titan3 .header .header-menu .menu {
     max-height: 0;
     overflow: hidden;
     float: none;
+    display: block;
+    float: none;
     text-align: center;
     width: 100%;
+    margin: 0 auto;
     transition: max-height 0.5s;
     transition: max-height 0.5s;
     transition: max-height 0.5s;
     transition: max-height 0.5s;
   }
-  /* line 909, ../sass/_titan3.scss */
+  /* line 932, ../sass/_titan3.scss */
   body #titan3 .header .header-menu .menu.menuOpen {
     max-height: 1000px;
     transition: max-height 0.5s;
@@ -988,122 +1012,132 @@ article, aside, details, figcaption, figure, footer, header, hgroup, main, menu,
     transition: max-height 0.5s;
     transition: max-height 0.5s;
   }
-  /* line 916, ../sass/_titan3.scss */
+  /* line 936, ../sass/_titan3.scss */
+  body #titan3 .header .header-menu .menu ul {
+    width: 100%;
+    display: block;
+    float: none;
+    margin: 0 auto;
+  }
+  /* line 943, ../sass/_titan3.scss */
   body #titan3 .header .header-menu .menu ul li {
     display: block;
     width: 100%;
-    background: #000;
-    border-top: 1px solid #4d4d4d;
+    float: none;
+    background: #ebedec;
+    text-align: right;
   }
-  /* line 921, ../sass/_titan3.scss */
+  /* line 950, ../sass/_titan3.scss */
   body #titan3 .header .header-menu .menu ul li:hover {
-    background: #999;
+    background: #ebedec;
   }
-  /* line 924, ../sass/_titan3.scss */
+  /* line 953, ../sass/_titan3.scss */
   body #titan3 .header .header-menu .menu ul li a {
-    color: #fff;
-    text-shadow: #848484 0px 1px 2px;
+    color: #818181;
     padding: 10px 0;
-    width: 100%;
+    width: 100px;
+    float: none;
+    display: block;
+    margin: 0 auto;
   }
-  /* line 933, ../sass/_titan3.scss */
+  /* line 965, ../sass/_titan3.scss */
   body #titan3 .header .header-menu .menuIcon {
     display: inline-block;
   }
-  /* line 938, ../sass/_titan3.scss */
+  /* line 970, ../sass/_titan3.scss */
   body #titan3 .header .item {
     width: 300px;
     height: 170px;
     margin: 0 auto;
   }
-  /* line 944, ../sass/_titan3.scss */
+  /* line 976, ../sass/_titan3.scss */
   body #titan3 .header #carousel-example-generic {
-    margin: 60px auto 0 auto;
+    margin: 20px auto 0 auto;
     padding: 0;
     width: 300px;
   }
-  /* line 950, ../sass/_titan3.scss */
+  /* line 982, ../sass/_titan3.scss */
   body #titan3 .header .carousel-caption {
     margin: 0 auto;
   }
-  /* line 954, ../sass/_titan3.scss */
+  /* line 986, ../sass/_titan3.scss */
   body #titan3 .header .carousel-caption img {
     width: 100px;
   }
-  /* line 962, ../sass/_titan3.scss */
+  /* line 994, ../sass/_titan3.scss */
   body #titan3 .black-bar {
     margin: 30px 0;
     /*bar*/
     /*logo-box*/
   }
-  /* line 967, ../sass/_titan3.scss */
+  /* line 999, ../sass/_titan3.scss */
   body #titan3 .black-bar .bar .lorem-ipsum {
     width: 100%;
     margin: 30px auto 0 auto;
     background-color: #ebedec;
   }
-  /* line 971, ../sass/_titan3.scss */
+  /* line 1003, ../sass/_titan3.scss */
   body #titan3 .black-bar .bar .lorem-ipsum h1 {
     width: 250px;
     margin: 20px auto 0 auto;
     font-size: 22px;
     color: #0077d1;
   }
-  /* line 977, ../sass/_titan3.scss */
+  /* line 1009, ../sass/_titan3.scss */
   body #titan3 .black-bar .bar .lorem-ipsum p {
     width: 250px;
     margin: 20px auto 0 auto;
     color: black;
   }
-  /* line 983, ../sass/_titan3.scss */
+  /* line 1015, ../sass/_titan3.scss */
   body #titan3 .black-bar .bar .lorem-ipsum .item-list {
     margin: 15px 0 0 60px;
     color: black;
   }
-  /* line 991, ../sass/_titan3.scss */
+  /* line 1023, ../sass/_titan3.scss */
   body #titan3 .black-bar .logo-box {
     margin: 0 auto;
     width: 200px;
     padding: 0;
     /*a*/
   }
-  /* line 996, ../sass/_titan3.scss */
+  /* line 1028, ../sass/_titan3.scss */
   body #titan3 .black-bar .logo-box img {
     width: 200px;
     margin: 20px auto 10px auto;
   }
-  /* line 1001, ../sass/_titan3.scss */
+  /* line 1033, ../sass/_titan3.scss */
   body #titan3 .black-bar .logo-box h2 {
     width: 250px;
     margin: 0 auto;
   }
-  /* line 1006, ../sass/_titan3.scss */
+  /* line 1038, ../sass/_titan3.scss */
   body #titan3 .black-bar .logo-box h3 {
     width: 250px;
     margin: 0 auto;
   }
-  /* line 1011, ../sass/_titan3.scss */
+  /* line 1043, ../sass/_titan3.scss */
   body #titan3 .black-bar .logo-box h4 {
     width: 250px;
     margin: 0 auto;
   }
-  /* line 1016, ../sass/_titan3.scss */
+  /* line 1048, ../sass/_titan3.scss */
   body #titan3 .black-bar .logo-box h5 {
     width: 250px;
     margin: 0 auto;
   }
-  /* line 1021, ../sass/_titan3.scss */
+  /* line 1053, ../sass/_titan3.scss */
   body #titan3 .black-bar .logo-box a {
     width: 200px;
     margin: 0 auto;
     /*img*/
   }
-  /* line 1026, ../sass/_titan3.scss */
+  /* line 1058, ../sass/_titan3.scss */
   body #titan3 .black-bar .logo-box a img {
     width: 175px;
     margin: 20px auto 25px auto;
   }
-  /* line 1038, ../sass/_titan3.scss */
+  /* line 1070, ../sass/_titan3.scss */
   body #titan3 .some-words {
     width: 100%;
     margin: 0 auto;
@@ -1114,21 +1148,21 @@ article, aside, details, figcaption, figure, footer, header, hgroup, main, menu,
     /*who-we-are*/
     /*seo-section*/
   }
-  /* line 1045, ../sass/_titan3.scss */
+  /* line 1077, ../sass/_titan3.scss */
   body #titan3 .some-words h1 {
     display: block;
     color: black;
     width: 270px;
     margin: 0 auto;
   }
-  /* line 1052, ../sass/_titan3.scss */
+  /* line 1084, ../sass/_titan3.scss */
   body #titan3 .some-words img {
     width: 200px;
     margin: 20px auto 0 auto;
     display: block;
     padding: 0 20px 0 0;
   }
-  /* line 1060, ../sass/_titan3.scss */
+  /* line 1092, ../sass/_titan3.scss */
   body #titan3 .some-words .social {
     width: 200px;
     display: block;
@@ -1137,56 +1171,56 @@ article, aside, details, figcaption, figure, footer, header, hgroup, main, menu,
     text-align: center;
     /*h2*/
   }
-  /* line 1067, ../sass/_titan3.scss */
+  /* line 1099, ../sass/_titan3.scss */
   body #titan3 .some-words .social h2 {
     width: 200px;
     margin: 10px auto 0 auto;
     display: block;
     /*i*/
   }
-  /* line 1072, ../sass/_titan3.scss */
+  /* line 1104, ../sass/_titan3.scss */
   body #titan3 .some-words .social h2 i {
     margin: 0;
   }
-  /* line 1080, ../sass/_titan3.scss */
+  /* line 1112, ../sass/_titan3.scss */
   body #titan3 .some-words .who-we-are {
     width: 100%;
     background-image: none;
     margin: 0 auto;
     /*who-column*/
   }
-  /* line 1085, ../sass/_titan3.scss */
+  /* line 1117, ../sass/_titan3.scss */
   body #titan3 .some-words .who-we-are .who-column {
     display: block;
     width: 100%;
     margin: 20px auto 0 auto;
     /*p*/
   }
-  /* line 1091, ../sass/_titan3.scss */
+  /* line 1123, ../sass/_titan3.scss */
   body #titan3 .some-words .who-we-are .who-column .page-image {
     width: 275px;
     margin: 0 auto;
   }
-  /* line 1096, ../sass/_titan3.scss */
+  /* line 1128, ../sass/_titan3.scss */
   body #titan3 .some-words .who-we-are .who-column .little-icon {
     width: 0;
   }
-  /* line 1100, ../sass/_titan3.scss */
+  /* line 1132, ../sass/_titan3.scss */
   body #titan3 .some-words .who-we-are .who-column .little-icon-smaller {
     width: 0;
   }
-  /* line 1104, ../sass/_titan3.scss */
+  /* line 1136, ../sass/_titan3.scss */
   body #titan3 .some-words .who-we-are .who-column p {
     width: 250px;
     margin: 10px auto 0 auto;
   }
-  /* line 1108, ../sass/_titan3.scss */
+  /* line 1140, ../sass/_titan3.scss */
   body #titan3 .some-words .who-we-are .who-column p h3 {
     width: 250px;
     display: block;
     margin: 0 auto;
   }
-  /* line 1120, ../sass/_titan3.scss */
+  /* line 1152, ../sass/_titan3.scss */
   body #titan3 .some-words .seo-section {
     width: 100%;
     display: block;
@@ -1197,7 +1231,7 @@ article, aside, details, figcaption, figure, footer, header, hgroup, main, menu,
     /*seo-list*/
     /*seo-long*/
   }
-  /* line 1129, ../sass/_titan3.scss */
+  /* line 1161, ../sass/_titan3.scss */
   body #titan3 .some-words .seo-section .seo-list {
     width: 100%;
     display: block;
@@ -1206,7 +1240,7 @@ article, aside, details, figcaption, figure, footer, header, hgroup, main, menu,
     padding: 0;
     /*seo-column*/
   }
-  /* line 1138, ../sass/_titan3.scss */
+  /* line 1170, ../sass/_titan3.scss */
   body #titan3 .some-words .seo-section .seo-list .seo-column {
     width: 100%;
     float: none;
@@ -1214,26 +1248,26 @@ article, aside, details, figcaption, figure, footer, header, hgroup, main, menu,
     margin: 20px auto 0 auto;
     padding: 0;
   }
-  /* line 1146, ../sass/_titan3.scss */
+  /* line 1178, ../sass/_titan3.scss */
   body #titan3 .some-words .seo-section .seo-list .seo-column .page-image {
     width: 250px;
     display: block;
     margin: 0 auto;
     float: none;
   }
-  /* line 1153, ../sass/_titan3.scss */
+  /* line 1185, ../sass/_titan3.scss */
   body #titan3 .some-words .seo-section .seo-list .seo-column h3 {
     width: 250px;
     display: block;
     margin: 20px auto 0 auto;
   }
-  /* line 1159, ../sass/_titan3.scss */
+  /* line 1191, ../sass/_titan3.scss */
   body #titan3 .some-words .seo-section .seo-list .seo-column p {
     width: 250px;
     display: block;
     margin: 10px auto 0 auto;
   }
-  /* line 1167, ../sass/_titan3.scss */
+  /* line 1199, ../sass/_titan3.scss */
   body #titan3 .some-words .seo-section .seo-list .seo-column:nth-child(3) {
     width: 100%;
     display: block;
@@ -1241,75 +1275,75 @@ article, aside, details, figcaption, figure, footer, header, hgroup, main, menu,
     padding: 0;
     float: none;
   }
-  /* line 1174, ../sass/_titan3.scss */
+  /* line 1206, ../sass/_titan3.scss */
   body #titan3 .some-words .seo-section .seo-list .seo-column:nth-child(3) h3 {
     width: 250px;
     display: block;
     margin: 20px auto 0 auto;
     float: none;
   }
-  /* line 1181, ../sass/_titan3.scss */
+  /* line 1213, ../sass/_titan3.scss */
   body #titan3 .some-words .seo-section .seo-list .seo-column:nth-child(3) p {
     width: 250px;
     display: block;
     margin: 10px auto 0 auto;
     float: none;
   }
-  /* line 1193, ../sass/_titan3.scss */
+  /* line 1225, ../sass/_titan3.scss */
   body #titan3 .some-words .seo-section .seo-long {
     width: 100%;
     display: block;
     margin: 30px auto 0 auto;
     float: none;
   }
-  /* line 1200, ../sass/_titan3.scss */
+  /* line 1232, ../sass/_titan3.scss */
   body #titan3 .some-words .seo-section .seo-long p {
     width: 250px;
     display: block;
     margin: 20px auto 0 auto;
   }
-  /* line 1206, ../sass/_titan3.scss */
+  /* line 1238, ../sass/_titan3.scss */
   body #titan3 .some-words .seo-section .seo-long h3 {
     display: block;
     width: 250px;
     margin: 0 auto;
   }
-  /* line 1214, ../sass/_titan3.scss */
+  /* line 1246, ../sass/_titan3.scss */
   body #titan3 .some-words .seo-section .client-performance {
     width: 250px;
     display: block;
     margin: 30px auto 0 auto;
     float: none;
   }
-  /* line 1220, ../sass/_titan3.scss */
+  /* line 1252, ../sass/_titan3.scss */
   body #titan3 .some-words .seo-section .client-performance .pricing {
     width: 100px;
     margin: 0 auto;
   }
-  /* line 1229, ../sass/_titan3.scss */
+  /* line 1261, ../sass/_titan3.scss */
   body #titan3 .some-words .logo-bottom {
     width: 150px;
     display: block;
     margin: 20px 0 0 20px;
   }
-  /* line 1237, ../sass/_titan3.scss */
+  /* line 1269, ../sass/_titan3.scss */
   body #titan3 .footer {
     width: 100%;
     margin: 0 auto;
     background-image: none;
     padding: 90px 0 20px 40px;
   }
-  /* line 1243, ../sass/_titan3.scss */
+  /* line 1275, ../sass/_titan3.scss */
   body #titan3 .footer img {
     margin: 20px 0 0 20px;
     display: block;
   }
-  /* line 1250, ../sass/_titan3.scss */
+  /* line 1282, ../sass/_titan3.scss */
   body #titan3 .footer .phone a {
     color: blue;
     margin: 0;
   }
-  /* line 1255, ../sass/_titan3.scss */
+  /* line 1287, ../sass/_titan3.scss */
   body #titan3 .footer .phone p {
     color: black;
     margin: -305px 0 0 10px;

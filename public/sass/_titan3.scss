@@ -128,7 +128,7 @@
     } /*slider*/
 
     #carousel-example-generic {
-      width: 500px;
+      width: 900px;
       float: none;
       margin: 40px auto 0 auto;
       background-color: white;
@@ -884,7 +884,12 @@
         padding: 0;
 
         .logo {
-          margin: 20px 0 0 10px;
+          width: 150px;
+          display: inline-block;
+          margin: 0 0 0 20px;
+          padding: 20px 0 0 0;
+          vertical-align: top;
+
         }
 
         h4 {
@@ -897,36 +902,63 @@
         }
 
         .header-menu {
+
+          display: inline-block;
+          width: 100px;
+          float: none;
+          margin: 15px 0 0 20px;
+
+          .menuIcon {
+            background: #ebedec;
+            text-align: right;
+            font-size: 40px;
+            &:hover {
+              background: #ebedec;
+            }
+
+
+          }
+
           .menu {
             max-height: 0;
             overflow: hidden;
             float: none;
+            display: block;
+            float: none;
             text-align: center;
             width: 100%;
-//            @include transition(height);
-//            @include transition-duration(.5s);
+            margin: 0 auto;
             @include transition(max-height 0.5s);
             &.menuOpen {
               max-height: 1000px;
-//              @include transition(height);
-//              @include transition-duration(.5s);
               @include transition(max-height 0.5s);
             }
             ul {
+
+              width: 100%;
+              display: block;
+              float: none;
+              margin: 0 auto;
+
               li {
                 display: block;
                 width: 100%;
-                background: #000;
-                border-top:1px solid #4d4d4d;
+                float: none;
+                background: #ebedec;
+
+                text-align: right;
                 &:hover {
-                  background: #999;
+                  background: #ebedec;
                 }
                 a {
-                  color: #fff;
-                  text-shadow: #848484 0px 1px 2px;
+                  color: #818181;
                   padding: 10px 0;
-                  width: 100%;
+                  width: 100px;
+                  float: none;
+                  display: block;
+                  margin: 0 auto;
                 }
+
               }
             }
           }
@@ -942,7 +974,7 @@
         }
 
         #carousel-example-generic {
-          margin: 60px auto 0 auto;
+          margin: 20px auto 0 auto;
           padding: 0;
           width: 300px;
         }
