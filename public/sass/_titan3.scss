@@ -836,12 +836,12 @@
         padding: 25px 0 8px 60px;
 
         img {
-          height: 20px;
-          margin: 0 15px 0 0
+          width: 80px;
+          margin: -15px 15px 0 0
         }
 
         .adobe {
-          height: 30px;
+          width: 30px;
         }
 
         a {
@@ -1277,13 +1277,17 @@
 
       .footer {
         width: 100%;
-        margin: 0 auto;
+        margin: 50px auto 0 auto;
         background-image: none;
-        padding: 90px 0 20px 40px;
+
 
         img {
-          margin: 20px 0 0 20px;
-          display: block;
+
+          display: inline-block;
+          width: 70px;
+          margin: 20px auto 0 auto;
+          padding: 0 2px;
+
         }
 
         .phone {
@@ -1296,7 +1300,7 @@
           p {
 
             color: black;
-            margin: -305px 0 0 10px;
+            margin: -150px 0 0 10px;
             float: left;
 
           }
